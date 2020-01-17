@@ -1,22 +1,17 @@
 {
   "files": {
-    "main.css": "/cooking1/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/cooking1/static/js/main.a5569c76.chunk.js",
-    "main.js.map": "/cooking1/static/js/main.a5569c76.chunk.js.map",
-    "runtime-main.js": "/cooking1/static/js/runtime-main.74d87e7d.js",
-    "runtime-main.js.map": "/cooking1/static/js/runtime-main.74d87e7d.js.map",
-    "static/js/2.16dedccb.chunk.js": "/cooking1/static/js/2.16dedccb.chunk.js",
-    "static/js/2.16dedccb.chunk.js.map": "/cooking1/static/js/2.16dedccb.chunk.js.map",
+    "main.css": "/cooking1/static/css/main.292388a4.chunk.css",
+    "main.js": "/cooking1/static/js/main.0511a064.chunk.js",
+    "main.js.map": "/cooking1/static/js/main.0511a064.chunk.js.map",
+    "runtime~main.js": "/cooking1/static/js/runtime~main.c22c8d8e.js",
+    "runtime~main.js.map": "/cooking1/static/js/runtime~main.c22c8d8e.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/cooking1/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.4d43d901.chunk.js": "/cooking1/static/js/2.4d43d901.chunk.js",
+    "static/js/2.4d43d901.chunk.js.map": "/cooking1/static/js/2.4d43d901.chunk.js.map",
     "index.html": "/cooking1/index.html",
-    "precache-manifest.f6fd30f15bd31280fabfc6d84ca64656.js": "/cooking1/precache-manifest.f6fd30f15bd31280fabfc6d84ca64656.js",
+    "precache-manifest.f2313f5089a644545059b40561bfacc6.js": "/cooking1/precache-manifest.f2313f5089a644545059b40561bfacc6.js",
     "service-worker.js": "/cooking1/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/cooking1/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.16dedccb.chunk.js.LICENSE": "/cooking1/static/js/2.16dedccb.chunk.js.LICENSE"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.74d87e7d.js",
-    "static/js/2.16dedccb.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.a5569c76.chunk.js"
-  ]
+    "static/css/2.31dafeb2.chunk.css.map": "/cooking1/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.292388a4.chunk.css.map": "/cooking1/static/css/main.292388a4.chunk.css.map"
+  }
 }
